@@ -1,0 +1,1 @@
+@pyw.exe C:\Users\franc\Documents\public_projects\Python\mcb.pyw %*
